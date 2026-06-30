@@ -27,19 +27,7 @@ The deployed contract source is preserved in [`contracts/nqta.py`](contracts/nqt
 
 There is no manual or simulated validator loop. Public view methods are `get_task`, `get_verdict`, `get_score`, `get_reason`, and `get_reputation`.
 
-## Local development
 
-```bash
-npm install
-npm run dev
-```
-
-Production checks:
-
-```bash
-npm run typecheck
-npm run build
-```
 
 ## Verification status
 
