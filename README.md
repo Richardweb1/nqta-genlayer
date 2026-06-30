@@ -2,6 +2,9 @@
 
 Nqta checks a public proof URL against a task brief and records a neutral AI-validator verdict on GenLayer.
 
+- Live app: [nqta-genlayer.vercel.app](https://nqta-genlayer.vercel.app)
+- GitHub: [Richardweb1/nqta-genlayer](https://github.com/Richardweb1/nqta-genlayer)
+
 ## GenLayer deployment
 
 - Network: Bradbury Testnet (chain ID `4221`)
